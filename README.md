@@ -1,6 +1,7 @@
 # Alfred Google Photos Albums 📸 
 
 Import and manage Google Photos albums in Alfred.
+
 <a href="https://github.com/giovannicoppola/alfred-gphotos-albums/releases/latest/">
 <img alt="Downloads"
 src="https://img.shields.io/github/downloads/giovannicoppola/alfred-gphotos-albums/total?color=purple&label=Downloads"><br/>
