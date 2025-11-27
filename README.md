@@ -2,6 +2,12 @@
 
 Import and manage Google Photos albums in Alfred.
 ![](images/gpa.png)
+
+<a href="https://github.com/giovannicoppola/alfred-gphotos-albums/releases/latest/">
+<img alt="Downloads"
+src="https://img.shields.io/github/downloads/giovannicoppola/alfred-gphotos-albums/total?color=purple&label=Downloads"><br/>
+</a>
+
 ## Overview
 
 This Alfred workflow helps you manage your Google Photos albums by creating a searchable database with metadata like dates, tags, and item counts. You can import albums from your browser and search/filter them with various options.
